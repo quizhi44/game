@@ -1,11 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T14:56:42.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="j8PzixPkpTd-ogYn7obv" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T15:01:14.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="2876HWncvZSEgG4GTFP8" version="24.6.5" type="github">
   <diagram name="第 1 页" id="2q5Fwde51ZWy4JRSvFPY">
-    <mxGraphModel dx="640" dy="426" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="511" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="k7dy4rIS-P17qyrrMMmg-1" value="数据资产" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="140" width="510" height="40" as="geometry" />
+          <mxGeometry x="80" y="140" width="556" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k7dy4rIS-P17qyrrMMmg-2" target="k7dy4rIS-P17qyrrMMmg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-2" value="数据共享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="245" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k7dy4rIS-P17qyrrMMmg-3" target="k7dy4rIS-P17qyrrMMmg-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-3" value="交易协议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="245" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k7dy4rIS-P17qyrrMMmg-5" target="k7dy4rIS-P17qyrrMMmg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-5" value="金融衍生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="245" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-7" value="全真互联" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="613" y="245" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-9" value="资产流通化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-116" y="235" width="171" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-10" value="权益资产化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-116" y="315" width="171" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k7dy4rIS-P17qyrrMMmg-11" target="k7dy4rIS-P17qyrrMMmg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-11" value="数据权益化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-116" y="395" width="171" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.467;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k7dy4rIS-P17qyrrMMmg-10" target="k7dy4rIS-P17qyrrMMmg-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k7dy4rIS-P17qyrrMMmg-16" target="k7dy4rIS-P17qyrrMMmg-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-16" value="数据主权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="92" y="321" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k7dy4rIS-P17qyrrMMmg-18" target="k7dy4rIS-P17qyrrMMmg-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-18" value="共同治理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="321" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k7dy4rIS-P17qyrrMMmg-20" target="k7dy4rIS-P17qyrrMMmg-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-20" value="通证经济" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="432" y="321" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-21" value="数字通证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="321" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k7dy4rIS-P17qyrrMMmg-23" target="k7dy4rIS-P17qyrrMMmg-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-23" value="链上数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="92" y="401" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k7dy4rIS-P17qyrrMMmg-25" target="k7dy4rIS-P17qyrrMMmg-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-25" value="共识机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="401" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k7dy4rIS-P17qyrrMMmg-27" target="k7dy4rIS-P17qyrrMMmg-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-27" value="金融衍生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="432" y="401" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dy4rIS-P17qyrrMMmg-28" value="全真互联" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="401" width="131" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
